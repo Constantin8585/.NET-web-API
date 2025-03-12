@@ -34,3 +34,4 @@ D:\main data\Abed work\C#\.NET API\api\obj\Debug\net8.0\refint\api.dll
 D:\main data\Abed work\C#\.NET API\api\obj\Debug\net8.0\api.pdb
 D:\main data\Abed work\C#\.NET API\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 D:\main data\Abed work\C#\.NET API\api\obj\Debug\net8.0\ref\api.dll
+D:\main data\Abed work\C#\.NET API\api\obj\Debug\net8.0\api.sourcelink.json
