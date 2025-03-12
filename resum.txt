@@ -1,0 +1,12 @@
+1- pour créer un nouveau projet d'api
+
+dotnet new webapi -o nom_de_l'api
+
+1.1. Créer un nouveau projet d'api à l'aide d'un framework en particulier 
+
+
+dotnet new webapi -o api --framework net8.0
+
+2-Lancer la vue dans le navigateur
+
+dotnet watch run
