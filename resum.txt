@@ -10,3 +10,7 @@ dotnet new webapi -o api --framework net8.0
 2-Lancer la vue dans le navigateur
 
 dotnet watch run
+
+3- Initialiser la base de donnée
+
+dotnet ef migrations add init
