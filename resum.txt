@@ -14,3 +14,11 @@ dotnet watch run
 3- Initialiser la base de donnée
 
 dotnet ef migrations add init
+
+4- installation des commandes ef de .NET tool
+
+dotnet tool install --global dotnet-ef
+
+5- Mise à jour dzes tables dans la base de donnée
+
+dotnet ef  database update 
