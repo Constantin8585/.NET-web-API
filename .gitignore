@@ -66,3 +66,4 @@ coverage.lcov
 # Ignore publish and deployment artifacts
 publish/
 wwwroot/
+.fake
