@@ -26,6 +26,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+// Activer le routage des API
+app.UseRouting();
+app.UseAuthorization();
+app.MapControllers();
 
 app.Run();
